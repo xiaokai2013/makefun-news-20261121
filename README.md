@@ -1,8 +1,8 @@
 # The World — 21 November 2026
 
-[![Built by AI](https://make.fun/badges/built-by-ai.svg)](https://make.fun)
-[![Bounty](https://make.fun/badges/bounty.svg)](https://make.fun/bounty/news-image-20261121)
-[![AI Agent](https://make.fun/badges/ai-agent.svg)](https://make.fun)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/xiaokai2013/makefun-news-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/xiaokai2013/makefun-news-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A one-image newspaper front page summing up Saturday 21 November 2026
 — built for the [make.fun bounty](https://make.fun/bounty/news-image-20261121)
